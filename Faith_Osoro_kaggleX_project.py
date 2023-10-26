@@ -22,12 +22,12 @@
 # * **Year:** Year data was collected
 # * **Uniqueid:** Unique ID
 # * **Bank_account:** Does respondent have a bank account or not.
-# * **Location_type:** Whether respondant resides in rural or urban area
-# * **Cellphone_access:** Whether respondant has a cellphone or not.
+# * **Location_type:** Whether the respondent resides in rural or urban area
+# * **Cellphone_access:** Whether the respondent has a cellphone or not.
 # * **Household_size:** Number of people in a household
 # * **Age_of_respondent:** Age of respondant
 # * **Gender_of_respondent:** Gender
-# * **Relationship_with_head:** How respondant relate to the head of house.
+# * **Relationship_with_head:** How does the respondent relate to the head of house.
 # * **Marital_status:** Marital status
 # * **Education_level:** The level of education of the respondent.
 # * **Job_type:** The type of job the respondent is doing.
